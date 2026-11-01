@@ -3,7 +3,12 @@
 # App Name: Pastimes
 
 # Overview of Mission
-Sometimes it's hard to think of something fun or productive to do. In this project you'll build SparkList, an activity discovery dashboard that helps users find random activity ideas. Users log in to access the dashboard, generate suggestions from a public API, and save the ones they like to a personal Saved Activities panel in the top-right corner. This project focuses on creating a login flow, fetching data from an external API, working with JSON responses, updating the DOM, and responding to user interactions.
+Sometimes it's hard to think of something fun or productive to do. In this project you'll build SparkList (Pastimes in my case), an activity discovery dashboard that helps users find random activity ideas. Users log in to access the dashboard, generate suggestions from a public API, and save the ones they like to a personal Saved Activities panel in the top-right corner. This project focuses on creating a login flow, fetching data from an external API, working with JSON responses, updating the DOM, and responding to user interactions.
+
+<img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/5b6678bd-3aba-41d0-ae03-7f4aa5fcb239" />
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/e06a97d8-d52a-48b9-8c1f-fab7081c9683" />
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/9dc9e868-4d12-441e-8bee-19fa12e3762b" />
+
 
 ## Language Used
 - **HTML**
