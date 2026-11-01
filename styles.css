@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+}
+
+.badge {
+    display: inline-block;
+    padding: 2px 8px;
+    margin-right: 6px;
+    border-radius: 999px;   /* makes the pill shape */
+    color: white;
+}
+
+.badge-blue      { background: #0d6efd; }
+.badge-grey      { background: #6c757d; }
+.badge-green     { background: #198754; }
+.badge-lightblue { background: #0dcaf0; color: black; }
+.badge-yellow    { background: #ffc107; color: black; }
+.badge-purple   { background: #6f42c1; }
+.badge-orange { background: #fd7e14; color: black; }
